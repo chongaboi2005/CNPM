@@ -1,0 +1,25 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.2.9 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.2.9">
+  <diagram name="Page-1" id="GNVNFFv6vyCJk1D1herI">
+    <mxGraphModel dx="1042" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Op5nItqUaixbP43A8yWx-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Bối&lt;/font&gt;" vertex="1">
+          <mxGeometry height="320" width="200" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Op5nItqUaixbP43A8yWx-12" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Admim&lt;/font&gt;" vertex="1">
+          <mxGeometry height="320" width="200" x="40" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="Op5nItqUaixbP43A8yWx-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Login&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="480" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Op5nItqUaixbP43A8yWx-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;View Grade&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="480" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Op5nItqUaixbP43A8yWx-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Update Student Info&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="480" y="760" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
